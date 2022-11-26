@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitosisX
-- 👀 I’m interested in Python, PHP, JavaScript, C# and Python 
-- 🌱 I’m currently learning Laravel, React and Vue3
+- 👀 I’m interested in Python (Django), PHP (Laravel), JavaScript (ReactJS and VueJS), C# 
+- 🌱 I’m ever learning Laravel, React and Vue3
 - I am baking something incredible, so get out of my kitchen while I am cooking 
 
 <!---
