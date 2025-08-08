@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mitosisX
-- 👀 Here's my stack arsenal; nextjs, Laravel, django, react and .net
+- 👀 Full-Stack developer: MERN, PERN, react, nextjs, tailwind css, lua
 - 🌱 I am more of a research and development guru
 - 
-- Currently, I am baking a modern cross-platform <strong>lua</strong> gui framework in python
+- Developer of a cross-platform framework for lua with material UI
+- 
 
 <!---
 mitosisX/mitosisX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
