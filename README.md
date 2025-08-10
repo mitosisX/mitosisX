@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mitosisX
-- 👀 Full-Stack developer: MERN, PERN, react, nextjs, tailwind css, lua
+- 👀 Full-Stack developer: laravel, react, nextjs, django, tailwind css, lua
 - 🌱 I am more of a research and development guru
 - 
-- Developer of a cross-platform framework for lua with material UI
+- Developer of a cross-platform framework for lua (Limekit) with material UI
 - 
 
 <!---
