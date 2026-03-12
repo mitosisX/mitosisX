@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi 👋 My name is Omega (mitosis X)<br>A full stack software developer<br><br>🌍  I'm based in Malawi, Africa<br>🖥️  See my portfolio at omega-msiska.vercel.app
+Hi 👋 My name is Omega (mitosis X)<br>
+A full stack software developer<br><br>
+🌍  I'm based in Malawi, Africa<br>
+🖥️  See my portfolio at omega-msiska.vercel.app<br/>
+<br>
+Developer of a crossplatform lua GUI development framework called Limekit with 30+ stars
+<br>
 
 
 # 💻 Tech Stack:
